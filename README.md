@@ -2,7 +2,7 @@
 
 
 <!--**rinika-web/rinika-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Hi👋, I'm Rinika from India, a non-tech student who passionate about web devolopment. I'm seeking a opportunities to start my career in tech.  I recently completed frontend part and am now learning on backend part. I'm building my Github profile to connect with people and learn more about web devolopment.
+Hi👋, I'm Rinika from India, a non-tech student who passionate about web devolopment. I'm seeking a opportunities to start my career in tech.  I recently completed frontend part and am now learning the backend part. I'm building my Github profile to connect with people and learn more about web devolopment.
 
 - 🤖 I’m currently working on react.js
 - 🌱 I’m currently learning javascript
