@@ -42,7 +42,7 @@ Check out my work and projects here:
 To grow into a skilled Full-Stack Developer and contribute to building scalable, high-performance web applications with great user experience.
 
 ## 📫 Connect With Me
-📧 Email: rinikakoleycollege@gmail.com  
+📧 Email: rinikakoleydev@gmail.com 
 💼 LinkedIn: https://www.linkedin.com/in/rinika-koley-802406253
 
 ---
