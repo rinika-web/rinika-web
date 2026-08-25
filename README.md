@@ -1,45 +1,102 @@
 # Hi, I'm Rinika Koley 👋
 
-Frontend Developer focused on building modern, responsive, and interactive web experiences using React and Next.js. I enjoy turning ideas into clean, scalable interfaces and enhancing user experience through smooth animations and thoughtful design.
+Full-Stack Developer focused on building practical, AI-powered web applications and strengthening software engineering fundamentals.
 
-## 🚀 What I'm Working On
-- Building modern frontend applications with React.js and Next.js
-- Creating interactive user experiences using GSAP and Framer Motion
-- Developing real-world projects to strengthen my full-stack development skills
+I build end-to-end applications using **React, Next.js, TypeScript, Python, Node.js, and PostgreSQL**, working across frontend architecture, REST APIs, backend workflows, databases, authentication, AI integrations, and deployment.
 
-## 🧠 Currently Learning
-- Advanced JavaScript concepts
-- Backend development and API integration
-- Performance optimization for modern web applications
+## 🚀 What I'm Building
+
+### 🤖 AI Resume Optimizer
+A full-stack AI application that analyzes resumes against job descriptions and provides:
+- Resume-JD match scoring
+- Category and keyword analysis
+- Missing-skill detection
+- AI-powered recommendations
+- Resume optimization workflows
+
+**Tech:** Next.js, React, TypeScript, Gemini API, Zod, REST APIs
+
+### 🔍 AI Website Analyzer
+A full-stack SaaS platform that automates website auditing across:
+- Performance
+- SEO
+- Accessibility
+- Best Practices
+- Core Web Vitals
+- AI-powered engineering recommendations
+
+**Tech:** Next.js, React, Node.js, PostgreSQL, Prisma, Puppeteer, Lighthouse, Gemini, JWT, Zod
+
+## 🧠 Currently Focused On
+
+- Full-Stack Software Development
+- Data Structures & Algorithms
+- Backend Development & REST APIs
+- AI Application Development
+- Database Design
+- Debugging & Problem Solving
+- Software Engineering Fundamentals
+- System Design & Scalability
 
 ## 🛠 Tech Stack
 
-**Frontend**
+**Languages**
+- Python
+- JavaScript
+- TypeScript
 - HTML5
 - CSS3
-- JavaScript
+
+**Frontend**
 - React.js
 - Next.js
 - Tailwind CSS
-
-**Animation & Interactive UI**
-- GSAP
 - Framer Motion
-- Three.js
+
+**Backend & Databases**
+- Node.js
+- REST APIs
+- PostgreSQL
+- Prisma ORM
+- JWT
+- Zod
+
+**AI & Web Technologies**
+- Gemini API
+- Puppeteer
+- Cheerio
+- Google Lighthouse
+- PageSpeed Insights
 
 **Tools**
 - Git
 - GitHub
+- Postman
 - VS Code
-- Figma
 - Vercel
+
+## 📚 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** using Python, focusing on understanding algorithmic patterns, complexity, and efficient problem solving.
+
+Topics include:
+- Arrays & Hash Maps
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Binary Search
+- Stack & Monotonic Stack
+- Linked Lists
+- Trees & Graphs
+- BFS & DFS
+- Dynamic Programming
+- Backtracking
+- Tries
+- Union Find
 
 ## 🌐 Portfolio
 Check out my work and projects here:  
 🔗 https://www.rinikakoley.com
-
-## 🎯 Career Goal
-To grow into a skilled Full-Stack Developer and contribute to building scalable, high-performance web applications with great user experience.
 
 ## 📫 Connect With Me
 📧 Email: rinikakoleydev@gmail.com 
